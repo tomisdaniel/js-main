@@ -1,2 +1,1 @@
-# This is the repo of my up-and-coming js projects
-
+# JuSt a repo
